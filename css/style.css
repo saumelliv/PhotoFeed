@@ -4,10 +4,11 @@ body{
 	
 }
 header{
-	background: #052A26;
+	background: #2EC9C2;
 	padding: 10px;
-	width: 115%;
 	color:white;
+	text-align: center;
+	font-family: "Arial";
 }
 div{
 	box-sizing: border-box;
