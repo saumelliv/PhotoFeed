@@ -16,9 +16,10 @@ header h1{
 	margin: 0;
 }
 .fotos{
-	background: #052A26;
+	background: #4A5AE5;
 	margin-top: 10px;
 	color:white;
+	border-radius: 7px;
 }
 div.fotos img{
 	width: 100%;
@@ -26,6 +27,7 @@ div.fotos img{
 div.fotos .foto-cabeza div:first-child{
 	display: inline-block;
 	width: 80%;
+	color: lightgrey;
 	
 
 }
